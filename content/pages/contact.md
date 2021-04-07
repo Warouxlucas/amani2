@@ -2,11 +2,11 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/6809ba78-c803-4b70-b554-0f0e8e6bd1d6/-/preview/-/enhance/90/
 subtitle: This is the contact page subtitle.
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+address: Chaussée de Bruxelles 29, 7061 Soignies
+phone: "+3265728642"
+email: AMani@example.com
 locations:
   - mapLink: ""
     lat: "50.50864127283873"
@@ -15,13 +15,12 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
+# Contact
 
-# Example contact form
+N’hésitez pas à nous contacter pour notre services traiteur:
 
-This form is setup to use Netlify's form handling:
+* Pour tout événements et réservations : `avant 15h`
+* Pour tout événements et réservations : `avant 15h`
+* Pour tout événements et réservations : `avant 15h`
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Trouvez-nous sur [facebook](https://www.facebook.com/restaurantamani).
