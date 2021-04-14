@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: A Mani
 featuredImage: https://ucarecdn.com/c07453c4-509a-4a9d-bf1e-68444f1f53b3/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 accordion:
   - title: "test "
     content: |
