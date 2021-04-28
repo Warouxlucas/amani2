@@ -7,24 +7,27 @@ meta:
   description: test meta description
   title: test meta title
 ---
-
 ## This is the DefaultPage template
+
+![]()
+
+![]()
 
 Paragraphs are separated by a blank line.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. *Italic*, **bold**, and `monospace`.
 
 ### Unordered lists:
 
-- this one
-- that one
-- the other one
+* this one
+* that one
+* the other one
 
 ### Ordered lists:
 
-1.  first item
-1.  second item
-1.  third item
+1. first item
+2. second item
+3. third item
 
 > Block quotes are written like so.
 >
